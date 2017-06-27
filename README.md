@@ -50,5 +50,5 @@ Fields:
 
 * `"resource_id": ["iot-hub"]`
    Unique resource name which defined by the service provider
-   Note: It's a feature tags provided by service instance
-   Reference: [CF Service Instance Tags](https://docs.cloudfoundry.org/devguide/services/managing-services.html#instance-tags-update)
+
+Note: It's a feature tags provided by service instance. [Learn more.](https://docs.cloudfoundry.org/devguide/services/managing-services.html#instance-tags-update "CF Service Instance Tags")
