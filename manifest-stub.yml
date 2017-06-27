@@ -1,0 +1,9 @@
+---
+applications:
+- name: arfa-abacus-helper
+  memory: 128M
+  disk_quota: 512M
+  env:
+    CF_API_ENDPOINT:
+    CF_USER:
+    CF_PASSWORD:
